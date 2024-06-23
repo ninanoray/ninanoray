@@ -3,7 +3,7 @@ Kim BeomSoo
 > FE Devloper
 
 ### Skills
-
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Education
 Seoul National University of Science and Technology
