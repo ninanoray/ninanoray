@@ -13,5 +13,5 @@ Kim BeomSoo
 
 ### Education
 Seoul National University of Science and Technology
-> 컴퓨터공학(2019-2024, 졸업)   
-> 기계시스템디자인공학(2016-2019, 전과)
+> 컴퓨터공학(2021-2024, 졸업)   
+> 기계시스템디자인공학(2016-2021, 전과)
