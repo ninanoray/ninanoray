@@ -8,6 +8,12 @@
 ![](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 
 
+### Projects
+1. Owl Server Monitoring
+2. Untitled_01
+3. 멘질멘질
+
+
 ### Experience
 아울시스템즈(Owlsystems)
 > 개발 2팀 연구원, Front-end developer   
