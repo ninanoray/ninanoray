@@ -13,8 +13,8 @@
 
 ### Experience
 아울시스템즈(Owlsystems)
-> 개발 2팀 연구원   
-> Front-end developer
+> 개발 2팀 연구원, Front-end developer   
+> 재직 기간: 2024.07.08
 
 
 ### Education
