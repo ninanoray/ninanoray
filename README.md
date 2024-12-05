@@ -13,7 +13,7 @@
 
 ### Experience
 아울시스템즈(Owlsystems)
-> 개발 2팀 연구원
+> 개발 2팀 연구원   
 > Front-end developer
 
 
