@@ -11,6 +11,12 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
+### Experience
+아울시스템즈(Owlsystems)
+> 개발 2팀 연구원
+> Front-end developer
+
+
 ### Education
 Seoul National University of Science and Technology
 > 컴퓨터공학(2021-2024, 졸업)   
